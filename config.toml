@@ -1,0 +1,24 @@
+baseURL = 'http://vmsh.org/'
+languageCode = 'en-us'
+title = 'VMSH'
+themesDir = "themes"
+theme = "hugo-whisper-theme"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Docs"
+url = "/docs/"
+weight = 2
+
+[params]
+homepage_button_link = '/docs'
+homepage_button_text = 'Getting started'
+
+[params.logo]
+# Different logo for mobile needed?
+mobile = "/images/vmsh.png"
+standard  = "/images/vmsh.png"
