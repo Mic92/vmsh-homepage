@@ -9,14 +9,15 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[menu.main]]
-name = "Docs"
-url = "/docs/"
-weight = 2
+# disable dead links for now
+#[[menu.main]]
+#name = "Docs"
+#url = "/docs/"
+#weight = 2
 
 [params]
-homepage_button_link = '/docs'
-homepage_button_text = 'Getting started'
+homepage_button_link = 'https://github.com/Mic92/vmsh'
+homepage_button_text = 'Get the code'
 
 [params.logo]
 # Different logo for mobile needed?
