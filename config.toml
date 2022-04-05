@@ -14,6 +14,11 @@ name = "Docs"
 url = "/docs/"
 weight = 2
 
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 3
+
 [params]
 homepage_button_link = '/docs'
 homepage_button_text = 'Getting started'
