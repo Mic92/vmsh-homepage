@@ -11,7 +11,7 @@ VMSH was written at the of Decentralized Systems Engineering at the Technical Un
 VMSH: Hypervisor-agnostic Guest Overlays for VMs  
 _Jörg Thalheim, Peter Okelmann, Harshavardhan Unnibhavi, Redha Gouicem, Pramod Bhatotia_  
 **EUROSYS 2022**  
-[[Paper](/static/pdfs/paper.pdf)] [[Presentation](/foobar.pdf)]
+[[Paper](/pdfs/vmsh_eurosys22.pdf)] [[Presentation]()]
 
 {{< rawhtml >}}
 <p>
