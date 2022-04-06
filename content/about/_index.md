@@ -1,10 +1,45 @@
 ---
-title: 'Overview'
-date: 2018-11-28T15:14:39+10:00
+title: 'About'
 ---
 
-## Whisper Theme
+VMSH was written at the of Decentralized Systems Engineering at the Technical University Munich ([dse.in.tum.de](https://dse.in.tum.de/)).
 
-Whisper is a minimal documentation theme for Hugo. The design and functionality is intentionally minimal. We’re aiming for a similar feel to a Github readme.
 
-foobar
+
+## Publication
+
+VMSH: Hypervisor-agnostic Guest Overlays for VMs  
+_Jörg Thalheim, Peter Okelmann, Harshavardhan Unnibhavi, Redha Gouicem, Pramod Bhatotia_  
+**EUROSYS 2022**  
+[[Paper](/static/pdfs/paper.pdf)] [[Presentation](/foobar.pdf)]
+
+{{< rawhtml >}}
+<p>
+<a href="https://github.com/Mic92/vmsh" style="text-decoration: none;" >
+<img alt="github logo" src="/images/GitHub-Mark-120px-plus.png" style="width: 3em;" />
+ [Code]
+</a>
+</p>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<details>
+<summary>BibTeX</summary>
+{{< /rawhtml >}}
+```
+@inproceedings{DBLP:conf/eurosys/ThalheimOUGB22,
+  author    = {J{\"{o}}rg Thalheim and
+               Peter Okelmann and
+               Harshavardhan Unnibhavi and
+               Redha Gouicem and
+               Pramod Bhatotia},
+  title     = {{VMSH:} hypervisor-agnostic guest overlays for VMs},
+  booktitle = {EuroSys},
+  pages     = {678--696},
+  publisher = {{ACM}},
+  year      = {2022}
+}
+```
+{{< rawhtml >}}
+</details>
+{{< /rawhtml >}}

@@ -4,8 +4,6 @@ notoc: true
 
 Shell into a virtualized linux, with your own tools.
 
-foobar
-
 {{< rawhtml >}}
   <p>
     <div id="demo"></div>
