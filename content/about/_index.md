@@ -2,7 +2,7 @@
 title: 'About'
 ---
 
-VMSH was written at the of Decentralized Systems Engineering at the Technical University Munich ([dse.in.tum.de](https://dse.in.tum.de/)).
+VMSH was written at the chair of Decentralized Systems Engineering at the Technical University Munich ([dse.in.tum.de](https://dse.in.tum.de/)).
 
 
 
