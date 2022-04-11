@@ -5,7 +5,7 @@ notoc: true
 Hypervisor-agnostic Guest Overlays for VMs  
 _Jörg Thalheim, Peter Okelmann, Harshavardhan Unnibhavi, Redha Gouicem, Pramod Bhatotia_  
 **EUROSYS 2022**  
-[[Paper](/pdfs/vmsh_eurosys22.pdf)] [[Presentation](/pdfs/VMSH_eurosys22_slides.pdf)] [[Sourcecode](https://github.com/Mic92/vmsh)]
+[[Paper](/pdfs/vmsh_eurosys22.pdf)] [[Presentation](/pdfs/VMSH_eurosys22_slides.pdf)] [[Source code](https://github.com/Mic92/vmsh)]
 
 {{< rawhtml >}}
 <details>
@@ -33,10 +33,10 @@ _Jörg Thalheim, Peter Okelmann, Harshavardhan Unnibhavi, Redha Gouicem, Pramod 
 
 {{< rawhtml >}}
   <p>
-    <div id="demo"></div>
+    <div id="demo" style="width: 50em; max-width: 100%; display: inline-block;"></div>
     <script type="text/javascript" src="/asciinema-player-v3.0.0-rc.3/asciinema-player.min.js"></script>
     <script>
-      AsciinemaPlayer.create('/demo.cast', document.getElementById('demo'));
+      AsciinemaPlayer.create('/demo.cast', document.getElementById('demo'), { autoPlay: true });
     </script>
   </p>
 {{< /rawhtml >}}
