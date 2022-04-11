@@ -29,10 +29,6 @@ name = "About"
 url = "/about/"
 weight = 3
 
-[params]
-homepage_button_link = 'https://github.com/Mic92/vmsh'
-homepage_button_text = 'Get the code'
-
 [params.logo]
 # Different logo for mobile needed?
 mobile = "/images/vmsh.png"
