@@ -2,24 +2,7 @@
 notoc: true
 ---
 
-Shell into a virtualized linux, with your own tools.
-
-{{< rawhtml >}}
-  <p>
-    <div id="demo"></div>
-    <script type="text/javascript" src="/asciinema-player-v3.0.0-rc.3/asciinema-player.min.js"></script>
-    <script>
-      AsciinemaPlayer.create('/demo.cast', document.getElementById('demo'));
-    </script>
-  </p>
-{{< /rawhtml >}}
-{{< rawhtml >}}
-  <a class="button button-primary mb-2" href="https://github.com/Mic92/vmsh">
-    Get the code
-  </a>
-{{< /rawhtml >}}
-
-VMSH: Hypervisor-agnostic Guest Overlays for VMs  
+Hypervisor-agnostic Guest Overlays for VMs  
 _Jörg Thalheim, Peter Okelmann, Harshavardhan Unnibhavi, Redha Gouicem, Pramod Bhatotia_  
 **EUROSYS 2022**  
 [[Paper](/pdfs/vmsh_eurosys22.pdf)] [[Presentation](/pdfs/VMSH_eurosys22_slides.pdf)] [[Sourcecode](https://github.com/Mic92/vmsh)]
@@ -45,4 +28,21 @@ _Jörg Thalheim, Peter Okelmann, Harshavardhan Unnibhavi, Redha Gouicem, Pramod 
 ```
 {{< rawhtml >}}
 </div>
+</details>
 {{< /rawhtml >}}
+
+{{< rawhtml >}}
+  <p>
+    <div id="demo"></div>
+    <script type="text/javascript" src="/asciinema-player-v3.0.0-rc.3/asciinema-player.min.js"></script>
+    <script>
+      AsciinemaPlayer.create('/demo.cast', document.getElementById('demo'));
+    </script>
+  </p>
+{{< /rawhtml >}}
+{{< rawhtml >}}
+  <a class="button button-primary mb-2" href="https://github.com/Mic92/vmsh">
+    Get the code
+  </a>
+{{< /rawhtml >}}
+
